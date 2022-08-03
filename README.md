@@ -1,6 +1,8 @@
 # ddsk-dice
 ddsk-dice.
 
+[GitHub Pages](https://morikooh.github.io/ddsk-dice/)
+
 # 元ネタ
 
 Sheeeeepla 様の以下のツイートより
